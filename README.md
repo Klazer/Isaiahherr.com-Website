@@ -1,0 +1,2 @@
+# Isaiahherr.com-Website
+This project was something that I have never done quite before. I have never used HTML, CSS, or PHP in any of my projects in the past so learning this was quite a challenge and took quite a bit of time. This project is still a work in progress as I refine both the design and other portions of the website, however, I am still quite pleased at how it turned out. It will be continually updated as I continue to refine and work on the website.
